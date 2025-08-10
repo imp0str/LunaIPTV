@@ -1,6 +1,6 @@
 # 🌙 LunaIPTV
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.11.9+-blue.svg)](https://www.python.org/)
 [![PyQt6](https://img.shields.io/badge/GUI-PyQt6-green)](https://pypi.org/project/PyQt6/)
 [![VLC](https://img.shields.io/badge/Playback-VLC-orange)](https://www.videolan.org/vlc/)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
