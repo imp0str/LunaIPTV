@@ -6,9 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 [![Made With Love](https://img.shields.io/badge/Made%20With-%E2%9D%A4-red)](#)
 
-A modern, user-friendly IPTV player built with **Python** & **PyQt6** — lightweight, customizable, and designed to make streaming effortless.  
-
-![LunaIPTV Logo](assets/logo.png) <!-- optional if you have a logo -->
+A modern, user-friendly IPTV player built with **Python** & **PyQt6** — lightweight, customizable, and designed to make streaming effortless.
 
 ---
 
@@ -45,16 +43,6 @@ Whether it’s live TV, sports, or on-demand series, LunaIPTV keeps it simple wi
 
 ---
 
-## 📸 Screenshots
-
-> *(Replace placeholders with actual images. Consider blurring personal IPTV info.)*
-
-| Live TV View | Category Browsing | Settings |
-|--------------|-------------------|----------|
-| ![Screenshot 1](assets/screenshot1.png) | ![Screenshot 2](assets/screenshot2.png) | ![Screenshot 3](assets/screenshot3.png) |
-
----
-
 ## 🚀 Installation
 
 ### From Source
@@ -63,8 +51,5 @@ Whether it’s live TV, sports, or on-demand series, LunaIPTV keeps it simple wi
 git clone https://github.com/YOUR-USERNAME/LunaIPTV.git
 cd LunaIPTV
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Run
-python LunaIPTV.py
+run LunaIPTV.exe
