@@ -1,5 +1,8 @@
 # 🌙 LunaIPTV
 
+### 🌙 Logo
+![LunaIPTV Logo](./assets/LunaIPTV.png)
+
 [![Python](https://img.shields.io/badge/Python-3.11.9+-blue.svg)](https://www.python.org/)
 [![PyQt6](https://img.shields.io/badge/GUI-PyQt6-green)](https://pypi.org/project/PyQt6/)
 [![VLC](https://img.shields.io/badge/Playback-VLC-orange)](https://www.videolan.org/vlc/)
@@ -42,6 +45,17 @@ Whether it’s live TV, sports, or on-demand series, LunaIPTV keeps it simple wi
 - **Portable Build Option** – distribute as a single EXE (PyInstaller).
 
 ---
+
+## 📸 Screenshots
+
+| Live TV View | Movies / Live Search | Series Continue |
+|--------------|----------------------|-----------------|
+| ![Live TV View](./assets/LiveTVView.png) | ![Movies and Live Search](./assets/Movies-LiveSearchView.png) | ![Series Continue](./assets/SeriesContinueView.png) |
+
+---
+
+### 🎬 Watch View
+![Watch View](./assets/WatchView.png)
 
 ## 🚀 Installation
 
